@@ -1,4 +1,4 @@
 hello world
-hola mundo
-ni hao 
-
+bug corregido
+terminado
+bye
